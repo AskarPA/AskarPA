@@ -5,6 +5,8 @@ I hold a B.Tech in Electronics and Communication Engineering, and a Diploma in E
 
 ## Academic Background
 
+- 🎓 **PG Diploma in Embedded Systems and Circuit Design
+- 
 - 🎓 **B.Tech in Electronics and Communication Engineering
 
 - 🎓 **Diploma in Electronics Engineering
