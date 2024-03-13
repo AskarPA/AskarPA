@@ -25,6 +25,6 @@ I hold a B.Tech in Electronics and Communication Engineering, and a Diploma in E
 
 - 📧 Email: askarpa2000@gmail.com
 - 🌐 LinkedIn: askarpa100
-- 🌐 Portfolio: 
+- 🌐 Portfolio: https://askar.my.canva.site/askarpa
 
 Excited to contribute to the electronics community and looking forward to connecting with like-minded individuals. Let's build innovative solutions together!
