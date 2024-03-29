@@ -5,8 +5,6 @@ I hold a B.Tech in Electronics and Communication Engineering, and a Diploma in E
 
 ## Academic Background
 
-- 🎓 **PG Diploma in Embedded Systems and Circuit Design
-
 - 🎓 **B.Tech in Electronics and Communication Engineering
 
 - 🎓 **Diploma in Electronics Engineering
@@ -14,6 +12,7 @@ I hold a B.Tech in Electronics and Communication Engineering, and a Diploma in E
 ## Specializations
 
 - **Embedded Systems:** My passion lies in the development of embedded systems, where I explore the seamless integration of hardware and software to create efficient and intelligent solutions.
+- 🎓 **PG Diploma in Embedded Systems and Circuit Design Course
 
 
 ## GitHub Focus
