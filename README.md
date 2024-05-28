@@ -1,7 +1,6 @@
 # About Me
 
-Greetings! 👋 I'm Askar, an Embedded Systems enthusiast with a solid foundation in both academia and practical applications. 
-I hold a B.Tech in Electronics and Communication Engineering, and a Diploma in Electronics Engineering.
+Greetings! 👋 I'm Askar, an Embedded Systems enthusiast with a solid foundation in both academia and practical applications.
 
 ## Academic Background
 
